@@ -1,0 +1,87 @@
+.logo h1 {
+    background-color: #e4f9f5;
+    color: #E8B86D;
+    font-family: "Monument Grotesk", sans-serif;
+    width: 100%;
+    margin: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 40px;
+}
+
+.top-cloud1 {
+    position: absolute;
+    bottom: 200px;
+    left: 100px;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-container h1 {
+    color: #66bfbf;
+    font-family: 'Anton', sans-serif;
+    font-size: 5rem;
+    padding-bottom: 20px;
+}
+
+.top-container p {
+    color: #66bfbf;
+    font-family: "Monument Grotesk", cursive;
+}
+
+.btn-primary {
+    background-color: #E8B86D;
+    font-family: "Monument Grotesk", cursive;
+    color: black;
+    font-weight: medium;
+    border: 0px;
+}
+
+.btn-outline-secondary {
+    font-family: "Monument Grotesk", cursive;
+    border-color: #E8B86D;
+    color: black;
+    font-weight: medium;
+}
+
+.mateoimg {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-bottom: 30px;
+}
+
+h1 {
+    color: #66bfbf;
+    font-family: "Monument Grotesk", cursive;
+    font-size: 2rem;
+    padding-bottom: 20px;
+}
+
+.h3get {
+    margin: 30px 0 30px 0;
+}
+
+.pget {
+    margin: 30px 0 30px 0;
+}
+
+.foot {
+    color: white;
+    background-color: #66bfbf;
+    padding-bottom: 5px;
+}
+
+.projects .card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
